@@ -1,0 +1,168 @@
+/********************* TAG SELECTORS *********************/
+body {
+    font-family:'Montserrat', sans-serif;
+    margin: 0;
+}
+
+em {
+    font-weight: bolder;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    margin-bottom: 3rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+p {
+    color: #8f8f8f;
+    font-size: 1.2rem;
+}
+
+/********************* SECTION I - Title *********************/
+.brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.navbar {
+    padding: 0 0 2rem;
+}
+
+.nav-container {
+    padding-left: 0;
+}
+
+.nav-item {
+    font-size: 1.5rem;
+    padding: 0 2.3rem;
+}
+
+.phone-img {
+    transform:          rotate(25deg);
+    -ms-transform:      rotate(25deg);
+    -moz-transform:     rotate(25deg);
+    -webkit-transform:  rotate(25deg);
+    -o-transform:       rotate(25deg);
+    width: 60%;
+    margin-left: 2rem;
+}
+.top-container {
+    padding: 3% 10%;
+}
+
+.top-row {
+    padding-top: 3%;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+    overflow: hidden;
+}
+/***Buttons**/
+
+.download-button {
+    margin: 0 1%;
+}
+
+/********************* SECTION II - Features *********************/
+
+.col-features {
+    padding: 0 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.icon {
+    color: #ef8172;
+    padding-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+#features {
+    padding: 10% 0;
+}
+
+/********************* SECTION III - Testimonials *********************/
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+    padding: 10% 0;
+    text-align: center;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    margin: 20px;
+    width: 10%;
+}
+
+#carouselControls {
+    padding: 0 15%;
+}
+
+/********************* SECTION IV - Press *********************/
+#press  {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-image {
+    width: 12%;
+    margin: 0 2rem 1rem;
+}
+
+/********************* SECTION V - Pricing *********************/
+#pricing {
+    margin: 0 0 5rem;
+}
+.card {
+    padding: 0;
+    margin: 2% 2%;
+}
+
+.button-pricing {
+    margin-top: 40px;
+}
+
+.pricing-header {
+    margin: 7rem 0 7rem;
+}
+
+/********************* SECTION V - CTA *********************/
+
+#cta {
+    background-color: #ff4c68;
+    padding: 10% 0;
+}
+
+.cta-header {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 2.3rem;
+    margin-bottom: 7%;
+}
+
+/********************* SECTION VI - Footer *********************/
+
+#footer {
+    background-color: #111;
+    padding: 1% 0;
+}

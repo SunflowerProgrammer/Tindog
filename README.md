@@ -1,2 +1,1 @@
-# Tindog
-Tinder for dogs (rip off
+TinDog Starting Files
